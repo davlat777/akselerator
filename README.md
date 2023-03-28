@@ -1,1 +1,1 @@
-# akselerator
+# akselerator.
